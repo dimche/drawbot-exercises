@@ -1,2 +1,2 @@
 ## Drawbot Exercises
-Workbook excercises in Drawbot from [“Python for Designers“](http://pythonfordesigners.com) by Roberto Arista
+Workbook exercises in Drawbot from [“Python for Designers“](http://pythonfordesigners.com) by Roberto Arista
